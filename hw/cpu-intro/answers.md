@@ -3,8 +3,8 @@
 ## Q1
 - Prediction / 预测:
 - Reasoning / 理由:
-- Verified result / 验证结果:
-- Analysis / 分析:
+- Verified result / 验证结果:otal Time = 10 ticks; CPU Busy = 100%.
+- Analysis / 分析:he result matches the prediction. Both processes use only CPU instructions, so the CPU stays busy until both processes finish.
 
 ## Q2
 - Prediction / 预测:
